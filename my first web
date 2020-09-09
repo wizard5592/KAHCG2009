@@ -7,11 +7,6 @@
         <h1> Header 1 </h1>
         <h2> Header 2 </h2>
         <h6> Header 6 </h6>
-        <br>
-        <a href="https://google.com">구글</a><br><br>
-        <img scr="https://placehold.it/300x250" />
-        <img scr="https://placehold.it/200x150" />
-        <img scr="https://dummyimage.com/150x80/4ca837/ff0073&text=dummy" />
         <br><br>
         <!-- audio tag -->
         <audio src="Maroon%205%20-%20Memories%20(Lyrics).mp3" controls loop></audio>
