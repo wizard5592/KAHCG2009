@@ -59,7 +59,7 @@ function Check(){
 
 function For()
 {
-    var name = ["유신이", "성봉이", "우성이", "씹덕"];
+    var name = ["김동욱", "우해준", "황의민", "이태언"];
     var text = "<ul>";
     for(var i = 0; i < name.length; ++i)
     {
@@ -72,7 +72,7 @@ function For()
 
 function Foreach()
 {
-    var name = ["유신이", "성봉이", "우성이", "씹덕"];
+    var name = ["김동욱", "우해준", "황의민", "이태언"];
     text = "<ul>";
     name.forEach(myFunction);
     text += "</ul>";
