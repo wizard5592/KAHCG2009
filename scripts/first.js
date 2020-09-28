@@ -24,7 +24,7 @@ function Check(){
     var b = 20;
     var c = a + b;
     
-    document.getElementById('test').innerHTML = c;
+    document.getElementById('test1').innerHTML = c;
     
     var x = "10";
     var y = "20";
